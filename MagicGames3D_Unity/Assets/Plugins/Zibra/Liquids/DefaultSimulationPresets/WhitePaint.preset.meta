@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3add092f903d954794942b269670f0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/WhitePaint.preset
+  uploadId: 548470

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb01442f02ec4bc4aaed06747e2bedb4
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/ZibraAILiquid.asmdef
+  uploadId: 548470

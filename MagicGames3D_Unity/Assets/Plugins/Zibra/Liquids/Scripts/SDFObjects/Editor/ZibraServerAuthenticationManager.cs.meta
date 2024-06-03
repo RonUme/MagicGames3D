@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf18362bd28ee8c4eb8228a67e32f8d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Scripts/SDFObjects/Editor/ZibraServerAuthenticationManager.cs
+  uploadId: 548470

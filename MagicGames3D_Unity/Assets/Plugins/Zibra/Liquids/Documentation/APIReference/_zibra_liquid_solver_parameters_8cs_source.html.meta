@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 05d67e90218054e1d8b7c057ad4fa2ca
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_zibra_liquid_solver_parameters_8cs_source.html
+  uploadId: 548470

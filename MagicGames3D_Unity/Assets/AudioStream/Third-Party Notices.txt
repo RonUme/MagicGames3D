@@ -1,0 +1,13 @@
+AudioStream asset (c) 2016-2023 Martin Cvengros. All rights reserved.
+Licensed under Unity Asset Store EULA
+Asset itself is not open source - you do not gain rights for sharing it or making it publicly available
+
+Uses FMOD by Firelight Technologies Pty Ltd.
+https://fmod.com/licensing
+
+Concentus
+Concentus.OggFile
+OggVorbisEncoder
+MIT/OSS license
+
+See also licensing details next to each respective asset/library used

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 67435f5b1a5b9e0428c6d0a79e4daefb
+timeCreated: 1598132549
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Editor/UI/UIToolkit/Controls/SelectableLabel/SelectableLabel.cs
+  uploadId: 548470

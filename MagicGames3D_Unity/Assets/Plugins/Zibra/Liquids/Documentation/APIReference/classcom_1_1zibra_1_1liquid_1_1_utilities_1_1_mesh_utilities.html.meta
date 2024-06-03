@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5109bac0030140b389326453308dc42
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/classcom_1_1zibra_1_1liquid_1_1_utilities_1_1_mesh_utilities.html
+  uploadId: 548470

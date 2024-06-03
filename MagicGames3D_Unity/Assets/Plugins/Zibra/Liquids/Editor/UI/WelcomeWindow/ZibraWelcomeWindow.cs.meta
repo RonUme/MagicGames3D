@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 385f99e3b8a8ad64eb14143c014d2a02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Editor/UI/WelcomeWindow/ZibraWelcomeWindow.cs
+  uploadId: 548470

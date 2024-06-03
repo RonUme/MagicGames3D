@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d659066d5161cbe48ae363f29bf7d78b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Samples/Materials/Middle.mat
+  uploadId: 548470

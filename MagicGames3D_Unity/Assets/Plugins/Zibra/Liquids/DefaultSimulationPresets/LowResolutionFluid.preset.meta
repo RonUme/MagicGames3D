@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc80f46b0ccf89f479aa4f5ee2d9f5aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/LowResolutionFluid.preset
+  uploadId: 548470

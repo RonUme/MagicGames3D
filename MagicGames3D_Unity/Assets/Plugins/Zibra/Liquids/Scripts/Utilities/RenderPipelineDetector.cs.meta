@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 588e69d73b3549848aee2d7a18fc1b5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Scripts/Utilities/RenderPipelineDetector.cs
+  uploadId: 548470

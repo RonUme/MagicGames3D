@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8201e6f95c3614a9687bfd01c2150bf8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_zibra_liquids_baking_utility_8cs_source.html
+  uploadId: 548470

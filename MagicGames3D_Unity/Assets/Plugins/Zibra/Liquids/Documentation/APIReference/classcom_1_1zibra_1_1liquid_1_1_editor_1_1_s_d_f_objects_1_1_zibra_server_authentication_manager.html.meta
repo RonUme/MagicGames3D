@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06d0a23c03a204f10bdc76dfaf5f6b3e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/classcom_1_1zibra_1_1liquid_1_1_editor_1_1_s_d_f_objects_1_1_zibra_server_authentication_manager.html
+  uploadId: 548470

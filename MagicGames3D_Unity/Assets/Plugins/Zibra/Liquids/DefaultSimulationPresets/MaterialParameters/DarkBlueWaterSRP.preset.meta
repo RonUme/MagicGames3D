@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 731ce317a49f5fe43b552440093b0a4d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/MaterialParameters/DarkBlueWaterSRP.preset
+  uploadId: 548470

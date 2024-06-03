@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6af2b72763976cb48adab901b28aeb41
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/menudata.js.txt
+  uploadId: 548470

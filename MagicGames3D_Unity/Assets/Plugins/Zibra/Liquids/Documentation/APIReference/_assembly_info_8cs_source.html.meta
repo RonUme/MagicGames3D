@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e69b06d61df154a6cb8fcb85260c7f08
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_assembly_info_8cs_source.html
+  uploadId: 548470

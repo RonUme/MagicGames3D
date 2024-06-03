@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 556fed5f3784d4af4b2d3e0f7c2eb40c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_zibra_liquid_detector_8cs_source.html
+  uploadId: 548470

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa0ad8f9b05cf4b5d82f9801c78d39f8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_voxel_embedding_8cs_source.html
+  uploadId: 548470

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69f3bdcad5e3dc24c8a89d5799c780f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Samples/Materials/Plane.mat
+  uploadId: 548470

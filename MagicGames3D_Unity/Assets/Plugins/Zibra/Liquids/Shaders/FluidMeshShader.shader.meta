@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5c9290c2c48b2094e906a7f87544e828
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Shaders/FluidMeshShader.shader
+  uploadId: 548470

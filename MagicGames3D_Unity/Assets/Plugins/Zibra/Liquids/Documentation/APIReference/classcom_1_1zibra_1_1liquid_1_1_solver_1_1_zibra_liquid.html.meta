@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58aaa48ff1c2d40f29aa46fcc69da419
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/classcom_1_1zibra_1_1liquid_1_1_solver_1_1_zibra_liquid.html
+  uploadId: 548470

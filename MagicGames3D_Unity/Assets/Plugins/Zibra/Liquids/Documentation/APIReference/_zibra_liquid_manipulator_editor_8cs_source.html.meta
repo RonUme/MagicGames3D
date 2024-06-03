@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ca13265a7c1b46778abf273dfbe7ef8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_zibra_liquid_manipulator_editor_8cs_source.html
+  uploadId: 548470

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbed8b02e5b78b84885fe674b1860657
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/FoamyWater.preset
+  uploadId: 548470

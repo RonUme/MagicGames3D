@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6023c9ad5aaca4f5081f82bd7b241f48
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Editor/csc.rsp
+  uploadId: 548470

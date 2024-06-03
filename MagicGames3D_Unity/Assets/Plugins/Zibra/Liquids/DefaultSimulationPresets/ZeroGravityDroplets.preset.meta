@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e4df1ffa6d2b1f408351ed6ec9cc277
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/ZeroGravityDroplets.preset
+  uploadId: 548470

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ca2ba39bd8b249eb83fe0b21cfe943b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/classcom_1_1zibra_1_1liquid_1_1_manipulators_1_1_zibra_liquid_void.html
+  uploadId: 548470

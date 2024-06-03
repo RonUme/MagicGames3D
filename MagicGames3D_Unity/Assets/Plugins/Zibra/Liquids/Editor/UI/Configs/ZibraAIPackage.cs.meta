@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f9762364259644fa8a07d775aa1e0f82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Editor/UI/Configs/ZibraAIPackage.cs
+  uploadId: 548470

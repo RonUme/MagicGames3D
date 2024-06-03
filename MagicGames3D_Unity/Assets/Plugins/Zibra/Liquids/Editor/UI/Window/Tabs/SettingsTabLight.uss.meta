@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d710d0eb8e0ed5469975a78fbcb64ce
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Editor/UI/Window/Tabs/SettingsTabLight.uss
+  uploadId: 548470

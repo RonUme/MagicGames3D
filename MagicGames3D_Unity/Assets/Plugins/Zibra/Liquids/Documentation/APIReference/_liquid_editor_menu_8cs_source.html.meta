@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d6669d4981724765803bed6d6e34f4d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_liquid_editor_menu_8cs_source.html
+  uploadId: 548470

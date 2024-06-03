@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80499cd294f3c46339e169827b78be0a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_zibra_performance_overlay_8cs_source.html
+  uploadId: 548470

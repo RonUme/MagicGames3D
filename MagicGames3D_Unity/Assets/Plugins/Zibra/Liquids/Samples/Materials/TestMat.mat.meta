@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7017f2f719e3f4f4fb17b67bed09c270
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Samples/Materials/TestMat.mat
+  uploadId: 548470

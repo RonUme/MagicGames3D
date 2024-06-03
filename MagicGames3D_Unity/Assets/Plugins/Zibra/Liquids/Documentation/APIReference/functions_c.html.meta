@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5da4ff74d3e442fc8f0df639483767d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/functions_c.html
+  uploadId: 548470

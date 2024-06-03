@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fbca5ecc2847408b81b4ab2b084efa5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/doxygen.css
+  uploadId: 548470

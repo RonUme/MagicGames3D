@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 990a571be702e844a90c48cf6b8237f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/MaterialParameters/ClearWater.preset
+  uploadId: 548470

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a223c306213954d74993d86b63cf9cc0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/classcom_1_1zibra_1_1liquid_1_1_liquid_u_r_p_render_component.html
+  uploadId: 548470

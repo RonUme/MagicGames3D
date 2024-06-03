@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf310ce2beabb5e45a4688241a703ca4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/AdvancedRenderingParameters/HighQuality.preset
+  uploadId: 548470

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 818d3ec4273693c4297fc02b0492b136
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/DefaultSimulationPresets/WaterMaterial.preset
+  uploadId: 548470

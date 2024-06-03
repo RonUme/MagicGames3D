@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e0d50e81461a2469db44cd72726f92c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Editor/UI/Window/Tabs/SettingsTab.cs
+  uploadId: 548470

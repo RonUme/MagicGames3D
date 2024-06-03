@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3cfdb74ca3ff14c7e8097ab0c5012cd0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Documentation/APIReference/_voxel_representation_8cs_source.html
+  uploadId: 548470

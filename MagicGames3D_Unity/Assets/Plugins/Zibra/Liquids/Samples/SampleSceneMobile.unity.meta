@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a12068fb6555b4f458fc9e7d51c6f649
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200718
+  packageName: Zibra Liquids
+  packageVersion: 1.5.2
+  assetPath: Assets/Plugins/Zibra/Liquids/Samples/SampleSceneMobile.unity
+  uploadId: 548470
